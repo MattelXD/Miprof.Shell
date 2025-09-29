@@ -3,6 +3,8 @@
 Codigo de ejecucion
 
 g++ -std=c++17 -Wall -o mishell main.cpp Shell.cpp Miprof.cpp Utils.cpp
+Luego se ejecuta
+./mishell
 
 Comandos:
 Puedes ejecutar cualquier comando del sistema, igual que en bash
